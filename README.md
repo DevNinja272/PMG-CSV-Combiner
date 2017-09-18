@@ -37,7 +37,8 @@ $ python csv-combiner.py clothing.csv accessories.csv > output.csv
 |176146e4ae48e70df2e628b45dccfd53405c73f951c003fb8c9c09b3207e7aab|Wallets|
 |63d42170fa2d706101ab713de2313ad3f9a05aa0b1c875a56545cfd69f7101fe|Purses|
 
-Your script would output
+Your script would output:
+
 *output.csv*
 
 |email_hash|category|filename|
