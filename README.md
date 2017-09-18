@@ -9,7 +9,7 @@ A new column is added called `filename` and its purpose is to describe the row o
 $ python csv-combiner.py file1 file2 file3 > output.py
 ```
 
-Type `-h` for more details.
+Use `-h` for more details.
 ```
 $ python csv-combiner.py -h
 ```
